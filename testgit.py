@@ -1,3 +1,3 @@
 print('Hello World')
-print('second line')
-print('third line')
+print('second hello')
+print('third hello')
